@@ -2,4 +2,4 @@
 <h3> 📍   São Paulo</h3>
 <h3> 🎓 Gestão da Tecnologia da Informação</h3>
 <h3 >📧 cris.xavi.sou@gmail.com</h3>
-<h3> <img href="https://www.svgrepo.com/show/75820/linkedin.svg">Linkedin</h3>
+<h3> <img src="C:\Users\senai\Downloads\linkedin.png" width="30px" height="30px">Linkedin</h3>
