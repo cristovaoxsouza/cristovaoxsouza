@@ -4,7 +4,6 @@
 <h3> 🎓 Gestão da Tecnologia da Informação</h3>
 <h3 >📧 cris.xavi.sou@gmail.com</h3>
 <h3><img src="https://www.svgrepo.com/show/75820/linkedin.svg" width="25px" height="25px"></img> <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">Linkedin</h3>
-<h3><img src="h[ttps://www.svgrepo.com/show/75820/linkedin.svg](https://github.com/cristovaoxsouza/cristovaoxsouza/blob/main/dual-screen-1745705_1280.png
-)" width="25px" height="25px"></img>
+<h3><img src="https://github.com/cristovaoxsouza/cristovaoxsouza/blob/main/dual-screen-1745705_1280.png" https://github.com/cristovaoxsouza/cristovaoxsouza/blob/main/dual-screen-1745705_1280.png
 
 https://github.com/cristovaoxsouza/cristovaoxsouza/blob/main/dual-screen-1745705_1280.png
