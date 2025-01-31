@@ -1,5 +1,4 @@
-
-<h3><img src="https://github.com/cristovaoxsouza/cristovaoxsouza/blob/main/programmingweb.jpg" width="620" height="300"></img></h3>
+<h3><img src="https://github.com/cristovaoxsouza/cristovaoxsouza/blob/main/programmingweb.jpg" width="auto" height="300"></img></h3>
 <h2> 👨‍💼 Cristóvão Souza</h2>
 <h3> 📍   São Paulo</h3>
 <h3> 🎓 Gestão da Tecnologia da Informação</h3>
