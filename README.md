@@ -1,5 +1,5 @@
 <div>
-  <h3><img src="https://github.com/cristovaoxsouza/cristovaoxsouza/blob/main/programmingweb.jpg" width="1200" height="500"></img></h3>
+  <h3><img src="https://github.com/cristovaoxsouza/cristovaoxsouza/blob/main/programmingweb.jpg"></img></h3>
 
 </div>
 <h2> 👨‍💼 Cristóvão Souza</h2>
